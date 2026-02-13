@@ -9,6 +9,6 @@ public class Utils {
     }
     // Prints a greeting message
     public static void printGreeting(String name) {
-        System.out.println("Hello, " + name + "!");
+        System.out.println("Hi, " + name);
     }
 }
